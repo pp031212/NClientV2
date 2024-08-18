@@ -20,7 +20,7 @@
             android:title="@string/change_theme"
             app:iconSpaceReserved="false" />
         <ListPreference
-            android:defaultValue="nhentai.net"
+            android:defaultValue="nhentai.xxx"
             android:entries="@array/site_mirrors"
             android:entryValues="@array/site_mirrors"
             android:key="@string/key_site_mirror"
