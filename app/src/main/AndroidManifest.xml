@@ -83,7 +83,7 @@
 
                 <data android:scheme="http" />
                 <data android:scheme="https" />
-                <data android:host="nhentai.net" />
+                <data android:host="nhentai.xxx" />
                 <data android:path="/" />
                 <data android:pathPrefix="/search/" />
                 <data android:pathPrefix="/parody/" />
@@ -111,7 +111,7 @@
                 <data android:scheme="http" />
                 <data android:scheme="https" />
                 <data
-                    android:host="nhentai.net"
+                    android:host="nhentai.xxx"
                     android:pathPattern="/g/.*" />
             </intent-filter>
 
@@ -145,7 +145,7 @@
 
                 <data android:scheme="http" />
                 <data android:scheme="https" />
-                <data android:host="nhentai.net" />
+                <data android:host="nhentai.xxx" />
                 <data android:pathPrefix="/tags" />
                 <data android:pathPrefix="/artists" />
                 <data android:pathPrefix="/characters" />
@@ -170,7 +170,7 @@
                 <data android:pathPrefix="/random" />
                 <data android:scheme="http" />
                 <data android:scheme="https" />
-                <data android:host="nhentai.net" />
+                <data android:host="nhentai.xxx" />
             </intent-filter>
         </activity>
         <activity
